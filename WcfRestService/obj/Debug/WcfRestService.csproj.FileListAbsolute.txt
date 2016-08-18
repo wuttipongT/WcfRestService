@@ -1,0 +1,5 @@
+E:\Workspace\Service\WcfRestService\WcfRestService\bin\WcfRestService.dll.config
+E:\Workspace\Service\WcfRestService\WcfRestService\bin\WcfRestService.dll
+E:\Workspace\Service\WcfRestService\WcfRestService\bin\WcfRestService.pdb
+E:\Workspace\Service\WcfRestService\WcfRestService\obj\Debug\WcfRestService.dll
+E:\Workspace\Service\WcfRestService\WcfRestService\obj\Debug\WcfRestService.pdb
